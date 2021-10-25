@@ -27,9 +27,11 @@ velopment of front-end application based on DBMS Oracle
 5. After receiving the confirmation email, follow the link contained in the
     email. Set the password and enter the oracle Apex application.
 
-
+![Image](figures/Figure-1.jpg)
 Figure 1:Apex home page
 
+
+![Image](figures/Figure-2.jpg)
 Figure 2:Request a free workspace
 
 
@@ -38,6 +40,8 @@ Figure 2:Request a free workspace
 Once you have access to Apex platform, select the option SQL Workshop. The
 SQL Workshop dashboard (Figure 3) allows the following functionalities :
 
+
+![Image](figures/Figure-3.jpg)
 Figure 3:SQL Workshop dashboard
 
 - Object Browser:
@@ -74,6 +78,8 @@ sheet to a Table database.
 Go to SQL Workshop−>Utilities−>Data Workshop−>Load xls file
 ”cityweather.xls”. Name the table ”CITYWEATHER” and click create.
 
+
+![Image](figures/Figure-4.jpg)
 Figure 4:Denmark City Weather database
 
 You now have created a table CITYWEATHER that contains the weather
@@ -109,6 +115,9 @@ The expected result of this command in show in Figure 5, it will return the
 cities in present table. And by using the key work DISTINCT, will only return
 distinct (different) values.
 
+
+
+![Image](figures/Figure-5.jpg)
 Figure 5:Expected result form SQL command [2]
 
 ### 2.3 Create Table using SQL CREATE, and INSERT
@@ -168,6 +177,9 @@ WHERE CITY_DETAILS.CITY = CITY_WEATHER.CITY
 AND CITY_WEATHER.DATETIME = ’06/07/1980’
 AND CITY_DETAILS.LATITUTE > 57;
 
+
+
+![Image](figures/Figure-6.jpg)
 Figure 6:Expected result form SQL command [6]
 
 This query returns the name of city, pressure, and temperature on the day
@@ -196,6 +208,8 @@ The SQL Workshop−>RESTful Services feature allows you to define REST-
 ful Web service endpoints, or URIs. In case you wish to setup your weather
 database to be called by other applications (Web pages, python, etc..)
 
+
+![Image](figures/Figure-7.jpg)
 Figure 7, show a simple example, where url was setup to query the database
 using the SQL command:
 
