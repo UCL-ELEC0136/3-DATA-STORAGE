@@ -1,9 +1,3 @@
-# Laboratory 3
-
-# Data Storage
-
-## November 6, 2020
-
 ## 1 SQL - Structured Query Language
 
 SQL is a standard language for storing, manipulating, and retrieving data in
