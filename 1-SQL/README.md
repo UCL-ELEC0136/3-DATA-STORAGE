@@ -202,7 +202,7 @@ Write SQL commands to return:
 6. The latitude and longitude of cities that have temperatures lower than -
     Celsius.
 
-### 3.1 Create a RESTfull API (optional)
+### 3.1 Create a RESTful API (optional)
 
 The SQL Workshop−>RESTful Services feature allows you to define REST-
 ful Web service endpoints, or URIs. In case you wish to setup your weather
