@@ -22,8 +22,7 @@ For example, if Katy accepted the assignment _DAPS 1: Data Acquisition_, Katy wi
 
 
 ## Content of the assignment
-The assignment is the `.ipynb` file in the repository. The repository also contains a password-protected `.zip` file with the solutions proposed by us.
-The password will be discovered 2 weeks after each assignment has been released. Feel free to try brute-forcing it if you manage to :)
+The assignment is slightly different from the others. There are two exercises, named `1-SQL` and `2-noSQL`, each in its respective folder. Instructions for each exercise are provided in the readme of each folder.
 
 
 ## Submitting your assignment
